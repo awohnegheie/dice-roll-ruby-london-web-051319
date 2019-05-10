@@ -2,8 +2,7 @@
 
 # Feel free to google "how to generate a random number in ruby"
 
-class Dice
-  def roll
-    rand(1..6)
-  end
-end 
+def roll
+  # code goes here
+  number=rand(1..6)
+end
